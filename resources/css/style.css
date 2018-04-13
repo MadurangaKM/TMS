@@ -81,8 +81,9 @@ border-radius: 10px;
 
 #ticket_token{
     float: left;
+    padding: 10px;
     height: 95px;
-    margin-left: 30px;
+    margin-left: 16px;
     width: 140px;
 background: #FFFFFF;
 box-shadow: 0 2px 25px -2px rgba(0,0,0,0.26);
@@ -100,13 +101,36 @@ border-radius: 10px;
     height: 95px;
   margin-right: 16px;
     margin-bottom: 16px;
-
+padding-top: 5px;
     width: 140px;
 background: #FFFFFF;
 box-shadow: 0 2px 25px -2px rgba(0,0,0,0.26);
 border-radius: 10px;
     
 }
+
+#normal_text{
+     color: 4A4949;
+    font-size: 15px;
+    font-weight:normal;
+    text-align: center;
+    padding-top: 0px;
+}
+
+
+#number_text{
+    color: 4A4949;
+    font-size: 40px;
+    font-weight:900;
+    text-align: center;
+}
+number_text_icon{
+   
+   color: 4A4949;
+    font-size: 40px;
+    font-weight:900; 
+}
+
 
 #now_surving{
         height: 205px;
@@ -117,6 +141,27 @@ border-radius: 10px;
 background: #FFFFFF;
 box-shadow: 0 2px 25px -2px rgba(0,0,0,0.26);
 border-radius: 10px;
+}
+
+th{
+   
+   color: 4A4949;
+    font-size: 18px;
+    font-weight:bold;
+    text-align: center;
+    padding-top: 10px;
+
+    padding-left: 90px;
+}
+td{
+   
+    color: 4A4949;
+    font-size: 15px;
+    font-weight:normal;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 90px;
+    
 }
 .section {
 	clear: both;
