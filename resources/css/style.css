@@ -103,7 +103,6 @@ border-radius: 10px;
 #calling{
     background-color: antiquewhite;
     margin-left: 30px;
-    width: 630px;
 }
 
 #calling_token{
@@ -244,4 +243,64 @@ td{
 
 @media only screen and (max-width: 480px) {
 	.span_2_of_2, .span_1_of_2 { width: 100%; }
+}
+
+
+@media  (min-width: 2000px) {
+    #now_surving{
+        height: 100%;
+           width: 95%;
+
+}
+    th{
+   
+  
+    font-size: 54px;
+   
+    padding-top: 40px;
+
+    padding-left: 130px;
+}
+td{
+   
+   
+    font-size: 45px;
+   
+    padding-top: 23px;
+    padding-left: 130px;
+    
+}
+    #token_header{
+     font-size: 55px;   
+    }
+    #ticket_token{
+   
+    padding: 10px;
+    height: 162px;
+    margin-left: 32px;
+    width: 280px;
+
+}
+    #number_text{
+        font-size: 78px;
+    }
+    #normal_text{
+        font-size: 30px;
+    }
+    
+    #ticket_token img{
+  height: 60px;
+        width: 70px;
+       
+        padding-left: 20px;
+    }
+    #calling_token{
+         height: 180px;
+         width: 280px;
+          margin-left: 20px;
+    }
+    #calling_token-animated{
+         height: 180px;
+         width: 280px;
+    }
 }
