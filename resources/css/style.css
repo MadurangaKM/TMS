@@ -246,61 +246,62 @@ td{
 }
 
 
-@media  (min-width: 2000px) {
+@media  (min-width: 1920px) {
     #now_surving{
-        height: 100%;
-           width: 95%;
+        height: 90%;
+           width: 90%;
 
 }
     th{
    
   
-    font-size: 54px;
+    font-size: 40px;
    
     padding-top: 40px;
 
-    padding-left: 130px;
+    padding-left: 110px;
 }
 td{
    
    
-    font-size: 45px;
+    font-size: 20px;
    
     padding-top: 23px;
-    padding-left: 130px;
+    padding-left: 110px;
     
 }
     #token_header{
-     font-size: 55px;   
+     font-size: 45px;   
     }
     #ticket_token{
    
-    padding: 10px;
-    height: 162px;
+    padding: 20px;
+    height: 130px;
     margin-left: 32px;
-    width: 280px;
+    width: 210px;
 
 }
     #number_text{
-        font-size: 78px;
+        font-size: 50px;
     }
     #normal_text{
-        font-size: 30px;
+        font-size: 20px;
     }
     
     #ticket_token img{
-  height: 60px;
-        width: 70px;
+  height: 55px;
+        width: 60px;
        
-        padding-left: 20px;
+        padding-right: 5px;
     }
     #calling_token{
-         height: 180px;
-         width: 280px;
+         height: 130px;
+         width: 210px;
           margin-left: 20px;
     }
     #calling_token-animated{
-         height: 180px;
-         width: 280px;
+         height: 130px;
+         width: 210px;
+         margin-left: 20px;
     }
 }
