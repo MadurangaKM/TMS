@@ -324,7 +324,7 @@ p.nominalBounds = new cjs.Rectangle(3.6,27.1,893,992.9);
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(48));
 
 	// Layer_15
-	this.text = new cjs.Text("N22", "bold 200px 'Lato Black'", "#FFFFFF");
+	this.text = new cjs.Text("N67", "bold 200px 'Lato Black'", "#FFFFFF");
 	this.text.lineHeight = 242;
 	this.text.lineWidth = 398;
 	this.text.parent = this;
